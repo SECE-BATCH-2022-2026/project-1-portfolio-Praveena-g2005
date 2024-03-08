@@ -1,0 +1,25 @@
+header{
+   
+    font-size: large;
+    padding-left: 800px;
+
+}
+body{
+    background-color:black;
+    color: aliceblue;
+    margin: 40px;
+}
+.About{
+    padding: 10px;
+    background-color:black;
+}
+.pets :hover{
+    transform:scale(1.1);
+}
+.trains :hover{
+    transform:scale(1.1);
+}
+
+Express yourself with emoji
+💖 👍 😂 🎉
+Respond quickly and add fun and personality to your emails
